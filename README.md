@@ -1,1 +1,0 @@
-# 2020_06-Lotte-Department-Store-Gender-Prediction-AI-Contest
