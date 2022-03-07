@@ -7,7 +7,7 @@
 - 분석도구 : python
 
 [mk0715]: https://github.com/mk0715
-[JangSeongMin]: https://github.com/JangSeongMin
+[JangSeongMin]: https://github.com/JsmRecodeSpace
 
 -----------------------------------------------------------------------------------------
 
